@@ -3,7 +3,7 @@ using $rootnamespace$.Models;
 
 namespace $rootnamespace$.Data
 {
-    public class ApplicationUnit : IDisposable
+    public class ApplicationUnit : IApplicationUnit
     {
         private DataContext _context = new DataContext();
 
