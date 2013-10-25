@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>chekkan.mvc5seed</id>
+    <version>1.0.0</version>
+    <authors>Chekkan</authors>
+    <owners>Chekkan</owners>
+    <projectUrl>https://github.com/chekkan/MvcSeed</projectUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Adds models and data layer to an MVC 5 Web Project</description>
+    <releaseNotes>Created the first release for the MVC 5 Framework</releaseNotes>
+    <copyright>Copyright 2013</copyright>
+    <tags>C# ASP.NET MVC MVC5 Seed</tags>
+    <dependencies>
+      <dependency id="Microsoft.AspNet.Identity.EntityFramework" version="1.0" />
+    </dependencies>
+  </metadata>
+</package>
